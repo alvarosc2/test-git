@@ -6,5 +6,5 @@ IEXE Repositorio prueba
 
 Ejercicios de git
 
-![]CapturaGitLogs
-![]CapturaGitLogs2
+![]./CapturaGitLogs
+![]./CapturaGitLogs2
