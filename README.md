@@ -6,5 +6,5 @@ IEXE Repositorio prueba
 
 Ejercicios de git
 
-![]./CapturaGitLogs
-![]./CapturaGitLogs2
+![Imagenes de log primera parte](https://github.com/alvarosc2/test-git/blob/main/CapturaGitLogs.JPG "Imagenes de log primera parte")
+![Imagenes de log primera parte](https://github.com/alvarosc2/test-git/blob/main/CapturaGitLogs2.JPG "Imagenes de log segunda parte")
